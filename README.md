@@ -16,6 +16,8 @@ Lembrar de pôr no repositório os arquivos da automação;
 
 
 
+
+
 Para este projeto, foram usados as seguintes tecnologias: 
 
 - **Python**: Para criar desenvolvimento do webscraping;
@@ -23,6 +25,9 @@ Para este projeto, foram usados as seguintes tecnologias:
 - **Google Cloud Platform:** Para armazenamento de dados;
 - **Big Query:** Para armazenamento de dados;
 - **Google sheets;
+
+
+
 
 
 Observações:

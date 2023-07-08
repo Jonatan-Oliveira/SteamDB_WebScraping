@@ -1,0 +1,44 @@
+[
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "Name",
+        "type": "STRING"
+    },
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "%",
+        "type": "STRING"
+    },
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "Price",
+        "type": "STRING"
+    },
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "Rating",
+        "type": "STRING"
+    },
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "Ends in",
+        "type": "STRING"
+    },
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "Started",
+        "type": "STRING"
+    },
+    {
+        "description": "",
+        "mode": "NULLABLE",
+        "name": "Release",
+        "type": "INTEGER"
+    }
+]
